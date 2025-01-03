@@ -2,7 +2,7 @@
 
 # Ukiyo
 
-This is a fork of original theme developed by Kinmury.
+This is a fork of original theme developed by [Kinmury](https://publish.obsidian.md/hub/01+-+Community/People/kinmury#Kinmury+Ditamir).
 
 Welcome to <b>Ukiyo</b>, an Obsidian theme which main focus is to ease your eyes while using this amazing app, reducing the unnecessary empty spaces from UI elements so that you can have more room for the important stuff: <i>your notes</i>.
 </div>
@@ -23,5 +23,5 @@ Welcome to <b>Ukiyo</b>, an Obsidian theme which main focus is to ease your eyes
 
 # Acknowledgements
 
-- Kinmury - original author of the theme whose account has been deleted: https://github.com/kinmury/obsidian-ukiyo.
+- [Kinmury](https://publish.obsidian.md/hub/01+-+Community/People/kinmury#Kinmury+Ditamir) - original author of the theme whose account has been deleted: https://github.com/kinmury/obsidian-ukiyo.
 - [Obsidian](https://obsidian.md/) is the host application for the plugin.
